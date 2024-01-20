@@ -1,0 +1,63 @@
+/* Add these styles to your CSS file */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+  
+  padding: 15px;
+  text-align: center;
+}
+
+.navbar a {
+  color: #0f0e0e;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+.navbar a:hover {
+  background-color: #efeef3;
+}
+
+span {
+  display: block;
+}
+
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: rgb(109, 97, 97);
+}
+
+#white {
+  background: white;
+}
+
+#blue {
+  background: blue;
+}
+
+#yellow {
+  background: yellow;
+}
+
+a {
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
